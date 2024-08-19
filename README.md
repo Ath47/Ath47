@@ -12,9 +12,9 @@ Aspiring Software Developer specializing in the field of Web Technologies.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ath47&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath47&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### GSSoC'24 Badges
+## GSSOC(24) Badges 🪶
 
-<div style='display:flex; gap: 20px;'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /></a>
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
