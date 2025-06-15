@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Developer specializing in the field of Web Technologies.
+Software developer specializing in Frontend
 
 
 ## 🌐 Socials:
